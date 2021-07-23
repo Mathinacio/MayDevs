@@ -19,7 +19,7 @@ Antes de executar o comando abaixo, certifique-se de estar fora de qualquer dire
 
 ## Se for usar o repositório no Git
 
-> git clone https://github.com/thothdeus/MayDevs
+> git clone https://github.com/Mathinacio/MayDevs
 
 ## Instale o módulo
 
